@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\ba6d4d2e40c26a54b673e50b79ab7bec676b123a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_58fd46457768ec2816481411241af5dfc84b5232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\0339eff5be5adf1c5dff404d0be4e38c7a6d416c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_94a4d54b0e47241270a53e9bf40d7121774d3ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\8cbcabad3214eb10cd61e0eaaae773e7155c1d5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_e8119c1f3bcf3026164c3483814fc66c7940df50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\11c10b3f21d142ae431690c24162d712bfbf8bd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_46658a9c9fc5c22d451371f26c68f4d3700067ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a6c683406a9af52c1c9ea36e05d169282f8421e">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_aca56abc029f74e06c7ba997ae3631962a444d7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\821c5613b97875d01deff0a18c4917dac81bb283\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_b07c3d0a78c392567ba822add43cc6871421fc9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\393ae6eefc829ed1345acd41db1bf4b59cdaff21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_8bd0ab17b1d0e0740155022276f8bb6b926a359b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\e65d3e39b7cc74aea582b8b664ef481153f74528\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_aacc25a69512d4162a04dbb0748f99faafbbd772.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\b7068e12cd8796c37c428b00a19a13106411267a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_d140f53ebc6368a3df42e3ffe0ba5b6bcc3f0164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\1c8022177a15f0cc7003b6fd79461594142b1d2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_088a7d3d4cfb6c299b9eac883bc2c69071120deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\3343402a2c42081af93fac6172c02881faed7d96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_a2ab56c85353e92797fb43b11ffb5cab21f6ff37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_6b7bdd64075f27ac794055998accebfc57200291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\992e83a4d7faf7393a677e8fa1427e5b138fec2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_78d99e7502decafa63d85da19e7aedf1bdf6d2da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\f0c20a69a99c2534a17410b0cada28d560583fb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_e8457ef613bf3cc84229e026ddc87f4715af9e6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\ed5447158cddaded11cb564ab1c078583278b8af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_7e0f03cb196263ac0ee94de7de43cf51357919fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\f856c2adec259af8575cac60179a2b007b212514\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_0b3327dca4bcdf7a2780a4a6ff9b98852b9dbda0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\c9f30452416d3b798868e86fd1112512a5361120\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_2b77209402b39a0ecf094989ecb19a76baec65e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_20b28410f27a46d68374e179ee1d2c7098db199c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\e82a64042dbb81d054b14bb9098b2a5be0c15155\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_8bc84b8714cb3d5ee4a5bfae6ac44d240e7a8ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\237dba8178e9598ea0dc0457dd8ff531ab7c4c37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_4dcc1c7089b7f0f4363ad491cf70919639e6320c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\399e997773bf2af2ed6a848c95572eba48899063\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_7ce278d75f934314599601274a92b09630d79ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\07c1e7db0d1194797b2aacb2759e7605b1ce5842\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_af9a7091a21458348fba5b1194d0d3f88d36c514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ticat Wolves\.android\build-cache\e80815437e2b9d2b438eedfa54dedfa3de023375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Ticat Wolves\Documents\Android\QR-Scanner\app\build\intermediates\pre-dexed\debug\classes_72a9dd72391e0d062cccd1fc52117dd4bca79a47.jar" />
+    </item>
+
+</items>
