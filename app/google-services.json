@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64862166254",
+    "firebase_url": "https://qr-scanner-9429a.firebaseio.com",
+    "project_id": "qr-scanner-9429a",
+    "storage_bucket": "qr-scanner-9429a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64862166254:android:b251b935205dd4b8",
+        "android_client_info": {
+          "package_name": "com.pythonanywhere.ticatwolves.qr_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64862166254-mu7fush997nevsbk9budgnv3ump70513.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pythonanywhere.ticatwolves.qr_scanner",
+            "certificate_hash": "f2f85146e5b318842759aabefcbbaf54363453aa"
+          }
+        },
+        {
+          "client_id": "64862166254-01d9jbvsh6074ar68nedsoeqci9kevp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQzuiefF5-72gY8tT3hKi5PxprYKo-YQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64862166254-01d9jbvsh6074ar68nedsoeqci9kevp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
